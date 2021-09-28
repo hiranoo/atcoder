@@ -1,0 +1,14 @@
+vector<pair<ll, ll>> factorize(ll n){
+  vector<pair<ll, ll>> v;
+  for(int i = 2; i*i <= n; i++){
+    if(n % i != 0) continue;
+    ll idx = 0;
+    while(n % i == 0){
+      idx++;
+      n /= i;
+    }
+    v.emplace_back(make_pair(i, idx));
+  }
+  if(n != 1) v.emplace_back(make_pair(n, 1));
+  return v;  
+}

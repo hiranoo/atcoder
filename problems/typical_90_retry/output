@@ -1,0 +1,807 @@
+
+norm2_limit: 1499999999999999999
+ group 0
+  member: 1 norm2=13
+  member: 2 norm2=20
+  member: 3 norm2=90
+  member: 4 norm2=34
+  member: 5 norm2=16
+  member: 6 norm2=74
+  member: 7 norm2=40
+  member: 8 norm2=117
+  member: 9 norm2=8
+ group_num: 1, K: 4
+
+norm2_limit: 749999999999999999
+ group 0
+  member: 1 norm2=13
+  member: 2 norm2=20
+  member: 3 norm2=90
+  member: 4 norm2=34
+  member: 5 norm2=16
+  member: 6 norm2=74
+  member: 7 norm2=40
+  member: 8 norm2=117
+  member: 9 norm2=8
+ group_num: 1, K: 4
+
+norm2_limit: 374999999999999999
+ group 0
+  member: 1 norm2=13
+  member: 2 norm2=20
+  member: 3 norm2=90
+  member: 4 norm2=34
+  member: 5 norm2=16
+  member: 6 norm2=74
+  member: 7 norm2=40
+  member: 8 norm2=117
+  member: 9 norm2=8
+ group_num: 1, K: 4
+
+norm2_limit: 187499999999999999
+ group 0
+  member: 1 norm2=13
+  member: 2 norm2=20
+  member: 3 norm2=90
+  member: 4 norm2=34
+  member: 5 norm2=16
+  member: 6 norm2=74
+  member: 7 norm2=40
+  member: 8 norm2=117
+  member: 9 norm2=8
+ group_num: 1, K: 4
+
+norm2_limit: 93749999999999999
+ group 0
+  member: 1 norm2=13
+  member: 2 norm2=20
+  member: 3 norm2=90
+  member: 4 norm2=34
+  member: 5 norm2=16
+  member: 6 norm2=74
+  member: 7 norm2=40
+  member: 8 norm2=117
+  member: 9 norm2=8
+ group_num: 1, K: 4
+
+norm2_limit: 46874999999999999
+ group 0
+  member: 1 norm2=13
+  member: 2 norm2=20
+  member: 3 norm2=90
+  member: 4 norm2=34
+  member: 5 norm2=16
+  member: 6 norm2=74
+  member: 7 norm2=40
+  member: 8 norm2=117
+  member: 9 norm2=8
+ group_num: 1, K: 4
+
+norm2_limit: 23437499999999999
+ group 0
+  member: 1 norm2=13
+  member: 2 norm2=20
+  member: 3 norm2=90
+  member: 4 norm2=34
+  member: 5 norm2=16
+  member: 6 norm2=74
+  member: 7 norm2=40
+  member: 8 norm2=117
+  member: 9 norm2=8
+ group_num: 1, K: 4
+
+norm2_limit: 11718749999999999
+ group 0
+  member: 1 norm2=13
+  member: 2 norm2=20
+  member: 3 norm2=90
+  member: 4 norm2=34
+  member: 5 norm2=16
+  member: 6 norm2=74
+  member: 7 norm2=40
+  member: 8 norm2=117
+  member: 9 norm2=8
+ group_num: 1, K: 4
+
+norm2_limit: 5859374999999999
+ group 0
+  member: 1 norm2=13
+  member: 2 norm2=20
+  member: 3 norm2=90
+  member: 4 norm2=34
+  member: 5 norm2=16
+  member: 6 norm2=74
+  member: 7 norm2=40
+  member: 8 norm2=117
+  member: 9 norm2=8
+ group_num: 1, K: 4
+
+norm2_limit: 2929687499999999
+ group 0
+  member: 1 norm2=13
+  member: 2 norm2=20
+  member: 3 norm2=90
+  member: 4 norm2=34
+  member: 5 norm2=16
+  member: 6 norm2=74
+  member: 7 norm2=40
+  member: 8 norm2=117
+  member: 9 norm2=8
+ group_num: 1, K: 4
+
+norm2_limit: 1464843749999999
+ group 0
+  member: 1 norm2=13
+  member: 2 norm2=20
+  member: 3 norm2=90
+  member: 4 norm2=34
+  member: 5 norm2=16
+  member: 6 norm2=74
+  member: 7 norm2=40
+  member: 8 norm2=117
+  member: 9 norm2=8
+ group_num: 1, K: 4
+
+norm2_limit: 732421874999999
+ group 0
+  member: 1 norm2=13
+  member: 2 norm2=20
+  member: 3 norm2=90
+  member: 4 norm2=34
+  member: 5 norm2=16
+  member: 6 norm2=74
+  member: 7 norm2=40
+  member: 8 norm2=117
+  member: 9 norm2=8
+ group_num: 1, K: 4
+
+norm2_limit: 366210937499999
+ group 0
+  member: 1 norm2=13
+  member: 2 norm2=20
+  member: 3 norm2=90
+  member: 4 norm2=34
+  member: 5 norm2=16
+  member: 6 norm2=74
+  member: 7 norm2=40
+  member: 8 norm2=117
+  member: 9 norm2=8
+ group_num: 1, K: 4
+
+norm2_limit: 183105468749999
+ group 0
+  member: 1 norm2=13
+  member: 2 norm2=20
+  member: 3 norm2=90
+  member: 4 norm2=34
+  member: 5 norm2=16
+  member: 6 norm2=74
+  member: 7 norm2=40
+  member: 8 norm2=117
+  member: 9 norm2=8
+ group_num: 1, K: 4
+
+norm2_limit: 91552734374999
+ group 0
+  member: 1 norm2=13
+  member: 2 norm2=20
+  member: 3 norm2=90
+  member: 4 norm2=34
+  member: 5 norm2=16
+  member: 6 norm2=74
+  member: 7 norm2=40
+  member: 8 norm2=117
+  member: 9 norm2=8
+ group_num: 1, K: 4
+
+norm2_limit: 45776367187499
+ group 0
+  member: 1 norm2=13
+  member: 2 norm2=20
+  member: 3 norm2=90
+  member: 4 norm2=34
+  member: 5 norm2=16
+  member: 6 norm2=74
+  member: 7 norm2=40
+  member: 8 norm2=117
+  member: 9 norm2=8
+ group_num: 1, K: 4
+
+norm2_limit: 22888183593749
+ group 0
+  member: 1 norm2=13
+  member: 2 norm2=20
+  member: 3 norm2=90
+  member: 4 norm2=34
+  member: 5 norm2=16
+  member: 6 norm2=74
+  member: 7 norm2=40
+  member: 8 norm2=117
+  member: 9 norm2=8
+ group_num: 1, K: 4
+
+norm2_limit: 11444091796874
+ group 0
+  member: 1 norm2=13
+  member: 2 norm2=20
+  member: 3 norm2=90
+  member: 4 norm2=34
+  member: 5 norm2=16
+  member: 6 norm2=74
+  member: 7 norm2=40
+  member: 8 norm2=117
+  member: 9 norm2=8
+ group_num: 1, K: 4
+
+norm2_limit: 5722045898436
+ group 0
+  member: 1 norm2=13
+  member: 2 norm2=20
+  member: 3 norm2=90
+  member: 4 norm2=34
+  member: 5 norm2=16
+  member: 6 norm2=74
+  member: 7 norm2=40
+  member: 8 norm2=117
+  member: 9 norm2=8
+ group_num: 1, K: 4
+
+norm2_limit: 2861022949217
+ group 0
+  member: 1 norm2=13
+  member: 2 norm2=20
+  member: 3 norm2=90
+  member: 4 norm2=34
+  member: 5 norm2=16
+  member: 6 norm2=74
+  member: 7 norm2=40
+  member: 8 norm2=117
+  member: 9 norm2=8
+ group_num: 1, K: 4
+
+norm2_limit: 1430511474608
+ group 0
+  member: 1 norm2=13
+  member: 2 norm2=20
+  member: 3 norm2=90
+  member: 4 norm2=34
+  member: 5 norm2=16
+  member: 6 norm2=74
+  member: 7 norm2=40
+  member: 8 norm2=117
+  member: 9 norm2=8
+ group_num: 1, K: 4
+
+norm2_limit: 715255737303
+ group 0
+  member: 1 norm2=13
+  member: 2 norm2=20
+  member: 3 norm2=90
+  member: 4 norm2=34
+  member: 5 norm2=16
+  member: 6 norm2=74
+  member: 7 norm2=40
+  member: 8 norm2=117
+  member: 9 norm2=8
+ group_num: 1, K: 4
+
+norm2_limit: 357627868651
+ group 0
+  member: 1 norm2=13
+  member: 2 norm2=20
+  member: 3 norm2=90
+  member: 4 norm2=34
+  member: 5 norm2=16
+  member: 6 norm2=74
+  member: 7 norm2=40
+  member: 8 norm2=117
+  member: 9 norm2=8
+ group_num: 1, K: 4
+
+norm2_limit: 178813934325
+ group 0
+  member: 1 norm2=13
+  member: 2 norm2=20
+  member: 3 norm2=90
+  member: 4 norm2=34
+  member: 5 norm2=16
+  member: 6 norm2=74
+  member: 7 norm2=40
+  member: 8 norm2=117
+  member: 9 norm2=8
+ group_num: 1, K: 4
+
+norm2_limit: 89406967162
+ group 0
+  member: 1 norm2=13
+  member: 2 norm2=20
+  member: 3 norm2=90
+  member: 4 norm2=34
+  member: 5 norm2=16
+  member: 6 norm2=74
+  member: 7 norm2=40
+  member: 8 norm2=117
+  member: 9 norm2=8
+ group_num: 1, K: 4
+
+norm2_limit: 44703483580
+ group 0
+  member: 1 norm2=13
+  member: 2 norm2=20
+  member: 3 norm2=90
+  member: 4 norm2=34
+  member: 5 norm2=16
+  member: 6 norm2=74
+  member: 7 norm2=40
+  member: 8 norm2=117
+  member: 9 norm2=8
+ group_num: 1, K: 4
+
+norm2_limit: 22351741789
+ group 0
+  member: 1 norm2=13
+  member: 2 norm2=20
+  member: 3 norm2=90
+  member: 4 norm2=34
+  member: 5 norm2=16
+  member: 6 norm2=74
+  member: 7 norm2=40
+  member: 8 norm2=117
+  member: 9 norm2=8
+ group_num: 1, K: 4
+
+norm2_limit: 11175870894
+ group 0
+  member: 1 norm2=13
+  member: 2 norm2=20
+  member: 3 norm2=90
+  member: 4 norm2=34
+  member: 5 norm2=16
+  member: 6 norm2=74
+  member: 7 norm2=40
+  member: 8 norm2=117
+  member: 9 norm2=8
+ group_num: 1, K: 4
+
+norm2_limit: 5587935446
+ group 0
+  member: 1 norm2=13
+  member: 2 norm2=20
+  member: 3 norm2=90
+  member: 4 norm2=34
+  member: 5 norm2=16
+  member: 6 norm2=74
+  member: 7 norm2=40
+  member: 8 norm2=117
+  member: 9 norm2=8
+ group_num: 1, K: 4
+
+norm2_limit: 2793967722
+ group 0
+  member: 1 norm2=13
+  member: 2 norm2=20
+  member: 3 norm2=90
+  member: 4 norm2=34
+  member: 5 norm2=16
+  member: 6 norm2=74
+  member: 7 norm2=40
+  member: 8 norm2=117
+  member: 9 norm2=8
+ group_num: 1, K: 4
+
+norm2_limit: 1396983860
+ group 0
+  member: 1 norm2=13
+  member: 2 norm2=20
+  member: 3 norm2=90
+  member: 4 norm2=34
+  member: 5 norm2=16
+  member: 6 norm2=74
+  member: 7 norm2=40
+  member: 8 norm2=117
+  member: 9 norm2=8
+ group_num: 1, K: 4
+
+norm2_limit: 698491929
+ group 0
+  member: 1 norm2=13
+  member: 2 norm2=20
+  member: 3 norm2=90
+  member: 4 norm2=34
+  member: 5 norm2=16
+  member: 6 norm2=74
+  member: 7 norm2=40
+  member: 8 norm2=117
+  member: 9 norm2=8
+ group_num: 1, K: 4
+
+norm2_limit: 349245964
+ group 0
+  member: 1 norm2=13
+  member: 2 norm2=20
+  member: 3 norm2=90
+  member: 4 norm2=34
+  member: 5 norm2=16
+  member: 6 norm2=74
+  member: 7 norm2=40
+  member: 8 norm2=117
+  member: 9 norm2=8
+ group_num: 1, K: 4
+
+norm2_limit: 174622981
+ group 0
+  member: 1 norm2=13
+  member: 2 norm2=20
+  member: 3 norm2=90
+  member: 4 norm2=34
+  member: 5 norm2=16
+  member: 6 norm2=74
+  member: 7 norm2=40
+  member: 8 norm2=117
+  member: 9 norm2=8
+ group_num: 1, K: 4
+
+norm2_limit: 87311490
+ group 0
+  member: 1 norm2=13
+  member: 2 norm2=20
+  member: 3 norm2=90
+  member: 4 norm2=34
+  member: 5 norm2=16
+  member: 6 norm2=74
+  member: 7 norm2=40
+  member: 8 norm2=117
+  member: 9 norm2=8
+ group_num: 1, K: 4
+
+norm2_limit: 43655744
+ group 0
+  member: 1 norm2=13
+  member: 2 norm2=20
+  member: 3 norm2=90
+  member: 4 norm2=34
+  member: 5 norm2=16
+  member: 6 norm2=74
+  member: 7 norm2=40
+  member: 8 norm2=117
+  member: 9 norm2=8
+ group_num: 1, K: 4
+
+norm2_limit: 21827871
+ group 0
+  member: 1 norm2=13
+  member: 2 norm2=20
+  member: 3 norm2=90
+  member: 4 norm2=34
+  member: 5 norm2=16
+  member: 6 norm2=74
+  member: 7 norm2=40
+  member: 8 norm2=117
+  member: 9 norm2=8
+ group_num: 1, K: 4
+
+norm2_limit: 10913935
+ group 0
+  member: 1 norm2=13
+  member: 2 norm2=20
+  member: 3 norm2=90
+  member: 4 norm2=34
+  member: 5 norm2=16
+  member: 6 norm2=74
+  member: 7 norm2=40
+  member: 8 norm2=117
+  member: 9 norm2=8
+ group_num: 1, K: 4
+
+norm2_limit: 5456967
+ group 0
+  member: 1 norm2=13
+  member: 2 norm2=20
+  member: 3 norm2=90
+  member: 4 norm2=34
+  member: 5 norm2=16
+  member: 6 norm2=74
+  member: 7 norm2=40
+  member: 8 norm2=117
+  member: 9 norm2=8
+ group_num: 1, K: 4
+
+norm2_limit: 2728483
+ group 0
+  member: 1 norm2=13
+  member: 2 norm2=20
+  member: 3 norm2=90
+  member: 4 norm2=34
+  member: 5 norm2=16
+  member: 6 norm2=74
+  member: 7 norm2=40
+  member: 8 norm2=117
+  member: 9 norm2=8
+ group_num: 1, K: 4
+
+norm2_limit: 1364241
+ group 0
+  member: 1 norm2=13
+  member: 2 norm2=20
+  member: 3 norm2=90
+  member: 4 norm2=34
+  member: 5 norm2=16
+  member: 6 norm2=74
+  member: 7 norm2=40
+  member: 8 norm2=117
+  member: 9 norm2=8
+ group_num: 1, K: 4
+
+norm2_limit: 682120
+ group 0
+  member: 1 norm2=13
+  member: 2 norm2=20
+  member: 3 norm2=90
+  member: 4 norm2=34
+  member: 5 norm2=16
+  member: 6 norm2=74
+  member: 7 norm2=40
+  member: 8 norm2=117
+  member: 9 norm2=8
+ group_num: 1, K: 4
+
+norm2_limit: 341059
+ group 0
+  member: 1 norm2=13
+  member: 2 norm2=20
+  member: 3 norm2=90
+  member: 4 norm2=34
+  member: 5 norm2=16
+  member: 6 norm2=74
+  member: 7 norm2=40
+  member: 8 norm2=117
+  member: 9 norm2=8
+ group_num: 1, K: 4
+
+norm2_limit: 170529
+ group 0
+  member: 1 norm2=13
+  member: 2 norm2=20
+  member: 3 norm2=90
+  member: 4 norm2=34
+  member: 5 norm2=16
+  member: 6 norm2=74
+  member: 7 norm2=40
+  member: 8 norm2=117
+  member: 9 norm2=8
+ group_num: 1, K: 4
+
+norm2_limit: 85264
+ group 0
+  member: 1 norm2=13
+  member: 2 norm2=20
+  member: 3 norm2=90
+  member: 4 norm2=34
+  member: 5 norm2=16
+  member: 6 norm2=74
+  member: 7 norm2=40
+  member: 8 norm2=117
+  member: 9 norm2=8
+ group_num: 1, K: 4
+
+norm2_limit: 42631
+ group 0
+  member: 1 norm2=13
+  member: 2 norm2=20
+  member: 3 norm2=90
+  member: 4 norm2=34
+  member: 5 norm2=16
+  member: 6 norm2=74
+  member: 7 norm2=40
+  member: 8 norm2=117
+  member: 9 norm2=8
+ group_num: 1, K: 4
+
+norm2_limit: 21315
+ group 0
+  member: 1 norm2=13
+  member: 2 norm2=20
+  member: 3 norm2=90
+  member: 4 norm2=34
+  member: 5 norm2=16
+  member: 6 norm2=74
+  member: 7 norm2=40
+  member: 8 norm2=117
+  member: 9 norm2=8
+ group_num: 1, K: 4
+
+norm2_limit: 10657
+ group 0
+  member: 1 norm2=13
+  member: 2 norm2=20
+  member: 3 norm2=90
+  member: 4 norm2=34
+  member: 5 norm2=16
+  member: 6 norm2=74
+  member: 7 norm2=40
+  member: 8 norm2=117
+  member: 9 norm2=8
+ group_num: 1, K: 4
+
+norm2_limit: 5328
+ group 0
+  member: 1 norm2=13
+  member: 2 norm2=20
+  member: 3 norm2=90
+  member: 4 norm2=34
+  member: 5 norm2=16
+  member: 6 norm2=74
+  member: 7 norm2=40
+  member: 8 norm2=117
+  member: 9 norm2=8
+ group_num: 1, K: 4
+
+norm2_limit: 2663
+ group 0
+  member: 1 norm2=13
+  member: 2 norm2=20
+  member: 3 norm2=90
+  member: 4 norm2=34
+  member: 5 norm2=16
+  member: 6 norm2=74
+  member: 7 norm2=40
+  member: 8 norm2=117
+  member: 9 norm2=8
+ group_num: 1, K: 4
+
+norm2_limit: 1331
+ group 0
+  member: 1 norm2=13
+  member: 2 norm2=20
+  member: 3 norm2=90
+  member: 4 norm2=34
+  member: 5 norm2=16
+  member: 6 norm2=74
+  member: 7 norm2=40
+  member: 8 norm2=117
+  member: 9 norm2=8
+ group_num: 1, K: 4
+
+norm2_limit: 665
+ group 0
+  member: 1 norm2=13
+  member: 2 norm2=20
+  member: 3 norm2=90
+  member: 4 norm2=34
+  member: 5 norm2=16
+  member: 6 norm2=74
+  member: 7 norm2=40
+  member: 8 norm2=117
+  member: 9 norm2=8
+ group_num: 1, K: 4
+
+norm2_limit: 332
+ group 0
+  member: 1 norm2=13
+  member: 2 norm2=20
+  member: 3 norm2=90
+  member: 4 norm2=34
+  member: 5 norm2=16
+  member: 6 norm2=74
+  member: 7 norm2=40
+  member: 8 norm2=117
+  member: 9 norm2=8
+ group_num: 1, K: 4
+
+norm2_limit: 165
+ group 0
+  member: 1 norm2=13
+  member: 2 norm2=20
+  member: 3 norm2=90
+  member: 4 norm2=34
+  member: 5 norm2=16
+  member: 6 norm2=74
+  member: 7 norm2=40
+  member: 8 norm2=117
+  member: 9 norm2=8
+ group_num: 1, K: 4
+
+norm2_limit: 82
+ group 0
+  member: 1 norm2=13
+  member: 2 norm2=20
+  member: 4 norm2=34
+  member: 5 norm2=16
+  member: 6 norm2=74
+  member: 7 norm2=40
+  member: 9 norm2=8
+ group 3
+  member: 8 norm2=81
+ group_num: 2, K: 4
+
+norm2_limit: 40
+ group 0
+  member: 1 norm2=13
+  member: 2 norm2=20
+  member: 4 norm2=34
+  member: 5 norm2=16
+  member: 7 norm2=40
+  member: 9 norm2=8
+ group 3
+ group 6
+  member: 8 norm2=5
+ group_num: 3, K: 4
+
+norm2_limit: 19
+ group 0
+  member: 1 norm2=13
+  member: 5 norm2=16
+  member: 9 norm2=8
+ group 2
+  member: 4 norm2=10
+ group 3
+ group 6
+  member: 7 norm2=10
+  member: 8 norm2=5
+ group_num: 4, K: 4
+
+norm2_limit: 9
+ group 0
+  member: 9 norm2=8
+ group 1
+  member: 2 norm2=5
+  member: 4 norm2=5
+  member: 5 norm2=5
+  member: 7 norm2=9
+ group 3
+ group 6
+  member: 8 norm2=5
+ group_num: 4, K: 4
+
+norm2_limit: 4
+ group 0
+ group 1
+ group 2
+ group 3
+ group 4
+  member: 7 norm2=2
+ group 5
+ group 6
+ group 8
+ group 9
+ group_num: 9, K: 4
+
+norm2_limit: 6
+ group 0
+ group 1
+  member: 2 norm2=5
+  member: 4 norm2=5
+  member: 5 norm2=5
+ group 3
+ group 6
+  member: 8 norm2=5
+ group 7
+ group 9
+ group_num: 6, K: 4
+
+norm2_limit: 7
+ group 0
+ group 1
+  member: 2 norm2=5
+  member: 4 norm2=5
+  member: 5 norm2=5
+ group 3
+ group 6
+  member: 8 norm2=5
+ group 7
+ group 9
+ group_num: 6, K: 4
+
+norm2_limit: 8
+ group 0
+  member: 9 norm2=8
+ group 1
+  member: 2 norm2=5
+  member: 4 norm2=5
+  member: 5 norm2=5
+ group 3
+ group 6
+  member: 8 norm2=5
+ group 7
+ group_num: 5, K: 4
+9
